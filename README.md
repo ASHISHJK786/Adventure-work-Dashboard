@@ -1,7 +1,7 @@
 # Adventure-work-Dashboard Microsoft Power BI 
 # Power BI Dashboard for Udemy Product Data
 Overview
-This repository contains a Power BI dashboard created using data from the Udemy platform. The dataset includes information about products, customers, and product subcategories, detailing retail prices, sell prices, and total sales. The purpose of this dashboard is to provide insights into sales performance, customer behavior, and product trends.
+This repository contains a Power BI dashboard created using data from the Udemy platform. The dataset includes information about products, customers, and subcategories, detailing retail prices, sell prices, and total sales. The purpose of this dashboard is to provide insights into sales performance, customer behavior, and product trends.
 
 Table of Contents
 
@@ -23,8 +23,6 @@ Usage
 
 Contributing
 
-
-License
 
 
 Contact
@@ -79,7 +77,7 @@ To view the dashboard, follow these steps:
 
 Clone this repository to your local machine using git clone <repository-url>.
 Open the Power BI Desktop application.
-Load the .pbix file from the cloned repository.
+Could you load the .pbix file from the cloned repository?
 Usage
 Once the Power BI dashboard is loaded, you can interact with various visualizations to explore the data:
 
@@ -89,8 +87,6 @@ Switch between different report pages to view various analyses.
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any questions or feedback, please contact me at ashishvijaysinghjk789@gmail.com
