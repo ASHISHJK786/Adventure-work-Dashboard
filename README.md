@@ -1,4 +1,4 @@
-# Adventure-work-Dashboard
+# Adventure-work-Dashboard Microsoft Power BI 
 # Power BI Dashboard for Udemy Product Data
 Overview
 This repository contains a Power BI dashboard created using data from the Udemy platform. The dataset includes information about products, customers, and product subcategories, detailing retail prices, sell prices, and total sales. The purpose of this dashboard is to provide insights into sales performance, customer behavior, and product trends.
